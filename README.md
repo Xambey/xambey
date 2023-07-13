@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working as an Angular developer at Aston (ex. Andersen lab. enc)
+
+### My skills and RoadMap:
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b04fcd5f038d81eeb06dae?variant=light)](https://roadmap.sh)
+
 <!--
 **Xambey/xambey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
