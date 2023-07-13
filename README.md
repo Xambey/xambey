@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm currently working as an Angular developer at Aston (ex. Andersen lab. enc)
-
-### My skills and RoadMap:
+#### My skills and RoadMap:
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b04fcd5f038d81eeb06dae?variant=light)](https://roadmap.sh)
 
